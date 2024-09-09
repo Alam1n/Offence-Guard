@@ -7,7 +7,7 @@ This repository contains the code and files for a binary text classification mod
 ### Key Features
 
 * Model:
-* Accuracy: The model achieves approximately 94% accuracy in classifying two classes
+* Accuracy: The model achieves approximately 94% accuracy in classifying two categories.
 * Loss: The model achieves approximate loss of 0.15.
 
 ### Model Architecture
