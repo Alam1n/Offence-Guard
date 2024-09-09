@@ -1,8 +1,10 @@
 # Offence-Guard
 Offence guard is a machine learning project that is able to detect weather a statement is offensive or not.
 
-
 This repository contains the code and files for a binary text classification model designed to detect offensive and non-offensive language.
+
+
+Link to the dataset on kaggle: [Cyberbullying Dataset](https://www.kaggle.com/datasets/saurabhshahane/cyberbullying-dataset)
 
 ### Key Features
 
