@@ -18,3 +18,5 @@ The model uses a simple neural network architecture consisting of the following 
 * Dense Layer: A fully connected layer with 64 neurons and ReLU activation.
 * Output Layer: A Dense layer with 2 neurons and softmax activation for binary classification (offensive vs. non-offensive).
 * This architecture efficiently handles text data and leverages Global Average Pooling to capture semantic information from the embedded input.
+
+You can test it out on the web page [here](https://muhammadam1n.pythonanywhere.com/offensive-detection)
